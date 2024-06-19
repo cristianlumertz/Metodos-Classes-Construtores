@@ -1,0 +1,14 @@
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\lpoo\lpoo\bin\Debug\net8.0\lpoo.exe
+C:\Users\Cristian\Desktop\lpoo\lpoo\bin\Debug\net8.0\lpoo.deps.json
+C:\Users\Cristian\Desktop\lpoo\lpoo\bin\Debug\net8.0\lpoo.runtimeconfig.json
+C:\Users\Cristian\Desktop\lpoo\lpoo\bin\Debug\net8.0\lpoo.dll
+C:\Users\Cristian\Desktop\lpoo\lpoo\bin\Debug\net8.0\lpoo.pdb
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.dll
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\refint\lpoo.dll
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.pdb
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\lpoo.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\lpoo\lpoo\obj\Debug\net8.0\ref\lpoo.dll
